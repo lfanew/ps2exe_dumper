@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"lfanew"
+	],
+	"copyright": "N/A",
+	"description": "Dumps the PowerShell script from an executable created with ps2exe",
+	"license": "MIT",
+	"name": "ps2exe_dumper"
+}

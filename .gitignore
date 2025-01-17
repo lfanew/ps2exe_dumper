@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ps2exe_dumper
+ps2exe_dumper.so
+ps2exe_dumper.dylib
+ps2exe_dumper.dll
+ps2exe_dumper.a
+ps2exe_dumper.lib
+ps2exe_dumper-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
